@@ -1,0 +1,38 @@
+*
+html
+{
+    scroll-behavior: smooth;
+}
+section
+{
+    padding: 50px 50px;
+}
+.contenedor-img1
+{
+    position: relative;
+    top: -150px;
+    border: 2px solid;
+    height: 500px;
+    width: 1000px;
+}
+.contenedor-img2
+{
+    position: relative;
+    top: 102px;
+    border: 2px solid;
+    height: 350px;
+    width: 150%;
+}
+.contenedor-img3
+{
+    position: relative;
+    top: 102px;
+    border: 2px solid;
+    height: 800px;
+    width: 150%;
+}
+.lista
+{
+    position: relative;
+    left: 10px;
+}
